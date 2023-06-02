@@ -1,3 +1,7 @@
 {
-  "ignoreCommand": "sh match.sh"
+  "git": {
+    "deploymentEnabled": {
+      "feat": false
+    }
+  }
 }
